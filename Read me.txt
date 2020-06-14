@@ -1,0 +1,10 @@
+Proje hakkkındaki tüm bilgiler video da bulunmaktadır.
+Proje Eclipse idesi kullanılarak yapılmıştır.
+MySQL Bağlantısıyla yapılmıştır.
+Bir java fx projesidir.
+Genel olarak bir kar etme amacı güdülmese de ileride;
+●  Mali düzenlemeler
+● Satın alım kontrolleri
+● Stok listesi
+Bunların otomasyon,internet üzerinden kontrol edilmesi.
+
