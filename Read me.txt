@@ -1,4 +1,4 @@
-Proje hakkkındaki tüm bilgiler video da bulunmaktadır.
+Proje hakkkındaki tüm bilgiler video(video.mp4) da bulunmaktadır.
 Proje Eclipse idesi kullanılarak yapılmıştır.
 MySQL Bağlantısıyla yapılmıştır.
 Bir java fx projesidir.
